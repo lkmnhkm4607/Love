@@ -15,6 +15,15 @@ body{
     transform-origin: right bottom;
 }
 
+p {
+    width: auto;
+    height: auto;
+    color: #fff;
+    text-decoration: none;
+    position: absolute;
+    justify-content: center;
+}
+
 .heart:before{
     align-items: center;
     content: '';
